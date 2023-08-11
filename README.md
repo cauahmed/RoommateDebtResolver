@@ -1,2 +1,2 @@
 # RoommateDebtResolver
-A java program using graph and hashtable to resolve debts between roommates
+A java program using graph and hashmaps to resolve debts between roommates
